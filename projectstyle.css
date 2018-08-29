@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+  font-family: 'Homemade Apple', cursive;
+  font-family: 'Petit Formal Script', cursive;
+  font-family: 'Varela Round', sans-serif;
+  font-family: 'Caveat', cursive;
+  font-family: 'Fredoka One', cursive;
+  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Space Mono', monospace;
+  font-family: 'Cutive Mono', monospace;
+  font-family: 'Podkova', serif;
+  font-family: 'Roboto Mono', monospace;
+  background-color:white;
+  padding-bottom: 20px;
+}
+.mahjong{
+  border-radius:50%;
+}
