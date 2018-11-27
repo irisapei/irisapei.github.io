@@ -140,33 +140,33 @@ div.square {
 
 #mail{
   position:relative;
-  left:370px;
+  left:400px;
   top:400px;
 }
 #github{
   position:relative;
   top:397px;
-  left:400px;
+  left:430px;
 }
 #linkedin{
   position:relative;
-  left:430px;
+  left:460px;
   top:404px;
 }
 #facebook{
   position:relative;
-  left:460px;
+  left:490px;
   top:395px;
 }
 #instagram{
   position:relative;
-  left:500px;
+  left:520px;
   top:403px;
 }
 .img-circle {
     position: relative;
     top: 100px;
-    left:490px;
+    left:550px;
 }
 #future{
   position:relative;
